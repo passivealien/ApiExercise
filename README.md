@@ -6,7 +6,8 @@ Video Tutorial Basis
   
 Tools
   Visual Studio Code - https://code.visualstudio.com
-  Insomnia - https://insomnia.rest/download or Postman - https://www.postman.com/downloads/
+  Insomnia - https://insomnia.rest/download or 
+  Postman - https://www.postman.com/downloads/
   SQL SERVER(EXPRESS ONLY) - https://www.microsoft.com/en-us/sql-server/sql-server-downloads
   Docker Desktop - https://www.docker.com/products/docker-desktop/
 
