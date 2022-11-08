@@ -39,8 +39,8 @@ namespace SixMinAPI.Migrations
 
                     b.Property<string>("Platform")
                         .IsRequired()
-                        .HasMaxLength(5)
-                        .HasColumnType("nvarchar(5)");
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.HasKey("ID");
 
