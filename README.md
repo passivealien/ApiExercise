@@ -4,13 +4,14 @@ Practice API<br />
 Video Tutorial Basis<br />
   https://www.youtube.com/watch?v=5YB49OEmbbE&ab_channel=LesJackson<br />
   
-Tools<br />
+Tools and prerequisites<br />
   Visual Studio Code - https://code.visualstudio.com<br />
   Insomnia - https://insomnia.rest/download or <br />
   Postman - https://www.postman.com/downloads/<br />
   SQL SERVER(EXPRESS ONLY) - https://www.microsoft.com/en-us/sql-server/sql-server-downloads<br />
   Docker Desktop - https://www.docker.com/products/docker-desktop/<br />
-
+  https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.403-windows-x64-installer
+  
 CLI commands<br />
   ---additional resources---<br />
   dotnet dev-certs https --trust<br />
