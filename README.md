@@ -29,3 +29,10 @@ CLI commands<br />
   ---mock database migration commands---<br />
   dotnet ef migrations add initialmigration<br />
   dotnet ef database update<br />
+
+# GitBash Commands
+  - git init
+  - git remote add origin <link>
+
+  - git pull
+  - git check
