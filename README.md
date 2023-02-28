@@ -36,3 +36,7 @@ CLI commands<br />
 
   - git pull
   - git check
+
+  - git add .
+  - git commit -m "message"
+  - git push
